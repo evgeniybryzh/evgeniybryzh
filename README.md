@@ -1,7 +1,7 @@
 
 Hi 👋, how are you?<br>I'm front-end developer from Ukraine.
 <div id="header" align="left">
-  <img src="https://www.transparentpng.com/thumb/ukraine-flag/zVAx7D-ukraine-flag-clipart-png-file.png" width="500" height="300"/>
+  <img src="https://www.transparentpng.com/thumb/ukraine-flag/zVAx7D-ukraine-flag-clipart-png-file.png" width="450" height="300"/>
 </div>
 
 ## 🌐 Socials:
