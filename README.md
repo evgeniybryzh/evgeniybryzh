@@ -1,7 +1,9 @@
-Hi 👋, how are you?<br>I'm front-end developer from Ukraine.
 <div id="header" align="center">
   <img src="https://www.transparentpng.com/thumb/ukraine-flag/zVAx7D-ukraine-flag-clipart-png-file.png" width="450" height="300"/>
 </div>
+
+Hi 👋, how are you?<br>I'm front-end developer from Ukraine.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100014265064039) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yevhenii-bryzhko-8003a81b2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bryzhko_ye) 
