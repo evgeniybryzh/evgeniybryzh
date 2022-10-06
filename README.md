@@ -1,4 +1,7 @@
-# 💫 About Me:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Hi 👋, how are you?<br>I'm front-end developer from Ukraine.
 
 
